@@ -1,1 +1,1 @@
-一款简洁的 Typecho 模板
+Anchor-cms 中文语言包
